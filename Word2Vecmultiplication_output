@@ -1,0 +1,200 @@
+side.n 301 :: shore
+side.n 302 :: view
+side.n 303 :: part
+side.n 304 :: view
+side.n 305 :: position
+side.n 306 :: area
+side.n 307 :: shore
+side.n 308 :: area
+side.n 309 :: team
+side.n 310 :: flank
+tell.v 311 :: explain
+tell.v 312 :: assure
+tell.v 313 :: 
+tell.v 314 :: assure
+tell.v 315 :: communicate
+tell.v 316 :: communicate
+tell.v 317 :: 
+tell.v 318 :: explain
+tell.v 319 :: assure
+tell.v 320 :: 
+terrible.a 321 :: severe
+terrible.a 322 :: 
+terrible.a 323 :: severe
+terrible.a 324 :: 
+terrible.a 325 :: severe
+terrible.a 326 :: 
+terrible.a 327 :: formidable
+terrible.a 328 :: 
+terrible.a 329 :: severe
+terrible.a 330 :: 
+think.v 331 :: recommend
+think.v 332 :: anticipate
+think.v 333 :: believe
+think.v 334 :: believe
+think.v 335 :: reason
+think.v 336 :: believe
+think.v 337 :: believe
+think.v 338 :: reason
+think.v 339 :: reason
+think.v 340 :: believe
+thus.r 341 :: consequently
+thus.r 342 :: consequently
+thus.r 343 :: there
+thus.r 344 :: consequently
+thus.r 345 :: there
+thus.r 346 :: there
+thus.r 347 :: there
+thus.r 348 :: consequently
+thus.r 349 :: there
+thus.r 350 :: consequently
+wind.n 351 :: breeze
+wind.n 352 :: breeze
+wind.n 353 :: breeze
+wind.n 354 :: breeze
+wind.n 355 :: breeze
+wind.n 356 :: breeze
+wind.n 357 :: current
+wind.n 358 :: breeze
+wind.n 359 :: breeze
+wind.n 360 :: breeze
+charge.v 361 :: accuse
+charge.v 362 :: impose
+charge.v 363 :: dash
+charge.v 364 :: demand
+charge.v 365 :: 
+charge.v 366 :: 
+charge.v 367 :: 
+charge.v 368 :: 
+charge.v 369 :: 
+charge.v 370 :: 
+civil.a 371 :: 
+civil.a 372 :: thoughtful
+civil.a 373 :: 
+civil.a 374 :: 
+civil.a 375 :: thoughtful
+civil.a 376 :: thoughtful
+civil.a 377 :: 
+civil.a 378 :: thoughtful
+civil.a 379 :: thoughtful
+civil.a 380 :: thoughtful
+clean.v 381 :: repair
+clean.v 382 :: repair
+clean.v 383 :: repair
+clean.v 384 :: 
+clean.v 385 :: wash
+clean.v 386 :: repair
+clean.v 387 :: 
+clean.v 388 :: repair
+clean.v 389 :: 
+clean.v 390 :: 
+coach.n 391 :: bus
+coach.n 392 :: transport
+coach.n 393 :: transport
+coach.n 394 :: bus
+coach.n 395 :: bus
+coach.n 396 :: bus
+coach.n 397 :: transport
+coach.n 398 :: bus
+coach.n 399 :: bus
+coach.n 400 :: 
+dry.a 401 :: wry
+dry.a 402 :: wry
+dry.a 403 :: flat
+dry.a 404 :: flat
+dry.a 405 :: flat
+dry.a 406 :: flat
+dry.a 407 :: 
+dry.a 408 :: 
+dry.a 409 :: flat
+dry.a 410 :: flat
+full.a 411 :: top
+full.a 412 :: ample
+full.a 413 :: highest
+full.a 414 :: top
+full.a 415 :: ample
+full.a 416 :: complete
+full.a 417 :: highest
+full.a 418 :: ample
+full.a 419 :: ample
+full.a 420 :: highest
+heap.n 421 :: category
+heap.n 422 :: category
+heap.n 423 :: 
+heap.n 424 :: category
+heap.n 425 :: 
+heap.n 426 :: category
+heap.n 427 :: mound
+heap.n 428 :: category
+heap.n 429 :: 
+heap.n 430 :: 
+job.n 431 :: place
+job.n 432 :: 
+job.n 433 :: 
+job.n 434 :: 
+job.n 435 :: task
+job.n 436 :: 
+job.n 437 :: 
+job.n 438 :: 
+job.n 439 :: 
+job.n 440 :: 
+late.r 441 :: 
+late.r 442 :: behind
+late.r 443 :: 
+late.r 444 :: behind
+late.r 445 :: behind
+late.r 446 :: 
+late.r 447 :: behind
+late.r 448 :: behind
+late.r 449 :: 
+late.r 450 :: behind
+new.a 451 :: further
+new.a 452 :: further
+new.a 453 :: further
+new.a 454 :: younger
+new.a 455 :: further
+new.a 456 :: fresh
+new.a 457 :: further
+new.a 458 :: fresh
+new.a 459 :: younger
+new.a 460 :: further
+often.r 461 :: generally
+often.r 462 :: generally
+often.r 463 :: 
+often.r 464 :: generally
+often.r 465 :: sometimes
+often.r 466 :: generally
+often.r 467 :: generally
+often.r 468 :: generally
+often.r 469 :: 
+often.r 470 :: generally
+only.r 471 :: just
+only.r 472 :: recently
+only.r 473 :: recently
+only.r 474 :: recently
+only.r 475 :: recently
+only.r 476 :: exclusively
+only.r 477 :: just
+only.r 478 :: just
+only.r 479 :: just
+only.r 480 :: just
+pulse.n 481 :: sound
+pulse.n 482 :: sound
+pulse.n 483 :: wave
+pulse.n 484 :: wave
+pulse.n 485 :: wave
+pulse.n 486 :: wave
+pulse.n 487 :: sound
+pulse.n 488 :: sound
+pulse.n 489 :: wave
+pulse.n 490 :: wave
+put.v 491 :: state
+put.v 492 :: express
+put.v 493 :: state
+put.v 494 :: state
+put.v 495 :: state
+put.v 496 :: leave
+put.v 497 :: state
+put.v 498 :: state
+put.v 499 :: join
+put.v 500 :: state

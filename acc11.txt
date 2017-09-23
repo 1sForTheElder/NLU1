@@ -1,0 +1,4 @@
+learningRate:0.01downsamplingRate:0.1negativeRate:0   =:   0
+learningRate:0.01downsamplingRate:0.1negativeRate:1   =:   0
+learningRate:0.01downsamplingRate:0.1negativeRate:2   =:   0
+learningRate:0.01downsamplingRate:0.1negativeRate:3   =:   0

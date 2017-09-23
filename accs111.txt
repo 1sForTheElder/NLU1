@@ -1,0 +1,6 @@
+learningRate:0.01downsamplingRate:0.1negativeRate:0   =:   0.0
+learningRate:0.01downsamplingRate:0.1negativeRate:1   =:   0.00158898305085
+learningRate:0.01downsamplingRate:0.1negativeRate:2   =:   0.00423728813559
+learningRate:0.01downsamplingRate:0.1negativeRate:3   =:   0.00317796610169
+learningRate:0.01downsamplingRate:0.1negativeRate:4   =:   0.00529661016949
+learningRate:0.01downsamplingRate:0.1negativeRate:5   =:   0.00370762711864
